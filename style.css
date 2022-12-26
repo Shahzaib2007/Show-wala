@@ -1,0 +1,25 @@
+.container{
+    background-color: #e9f5f9;
+}
+span{
+    text-transform: uppercase;
+}
+.nent{
+text-decoration: none;
+}
+.cent{
+    background-color: #66b6d2;
+}
+.open{
+    text-decoration: none;
+}
+.point{
+    background-color: #66b6d2;
+    background-image: url("https://images.pexels.com/photos/206359/pexels-photo-206359.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+
+}
+
